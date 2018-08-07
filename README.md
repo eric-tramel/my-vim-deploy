@@ -1,2 +1,3 @@
 # my-vim-deploy
-Using Ansible to deploy my vim environment
+
+I want to learn more about vim, so I'm creating a small playbook here to automate my deployment so that I don't lose things along the way!
